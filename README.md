@@ -4,9 +4,9 @@ OpenNMSTechChallenge
 
 How to Run:
 
-1. Using Eclipse checkout the package from  github (https://github.com/steviemk94/openNMS), Eclipse will build the package automatically
+1. Using Eclipse checkout the package from  github (https://github.com/steviemk94/openNMS). Eclipse will build the package automatically
 
-2. Run MainClass.java and pass in the filepath and name (C:\Users\stevi\OneDrive\Desktop\test2.yaml) as a Program Arguement 
+2. Run MainClass.java and pass in the filepath and name e.g C:\Users\stevi\OneDrive\Desktop\test2.yaml as a Program Argument 
 
 3. When prompted "Please enter OID:", click into the console
 
